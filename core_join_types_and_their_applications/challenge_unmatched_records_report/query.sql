@@ -1,4 +1,4 @@
--- Write your code here
+-- How to order with a case statement
 SELECT c.customer_id, 
     c.name as customer_name, 
     o.order_id, 
